@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(rgba(228, 89, 188, 0.2), rgba(0, 0, 0, 0.1)), url(https://images.unsplash.com/photo-1478809846154-d4ca173df3e0?ixlib=rb-0.3.5&s=a5a518df7e4887e2af05a974dd4ded83&auto=format&fit=crop&w=1633&q=80);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.landing {
+    text-align: center;
+    margin: auto;
+}
+
+.container {
+    width: 100%;
+    padding: 15px auto;
+    margin: 225px auto;
+}
+
+h1 {
+    font-family: 'PT Mono', monospace;
+    font-size: 2em;
+    color: rgb(61, 32, 70);
+}
+
+hr {
+    border: 1px solid rgb(61, 32, 70);
+    width: 45%;
+}
+
+.btn-primary {
+    font-family: 'PT Mono', monospace;
+    background-color: rgb(61, 32, 70);
+    border: 1px rgb(61, 32, 70) solid;
+}
+
+.btn-primary:hover {
+    background-color: rgb(100, 63, 111);
+    border: 1px rgb(61, 32, 70) solid;
+}
+
+
+
+
+
+
